@@ -1,0 +1,3 @@
+services:
+  ut_text_formatters.slugify:
+    class: Drupal\ut_text_formatters\TextSlugify  

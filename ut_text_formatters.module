@@ -1,0 +1,21 @@
+<?php
+
+/**
+ * @file
+ * Theme define for tooltip field formatter.
+ */
+
+/**
+ * Implements hook_theme().
+ */
+function ut_text_formatters_theme($existing, $type, $theme, $path) {
+  return [
+    'text_tooltip_formatter' => [
+      'variables' => [
+        'text' => NULL,
+        'tooltip_content' => NULL,
+      ],
+      'template' => 'text-tooltip-formatter',
+    ],
+  ];
+}

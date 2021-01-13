@@ -1,0 +1,15 @@
+ut_text_formatters.settings.slugify:
+  type: mapping
+  label: 'Slug formatter setting'
+  mapping:
+    separator:
+      type: string
+      label: 'Text Separator'
+
+ut_text_formatters.settings.tooltip_content:
+  type: mapping
+  label: 'Text field tooltip content setting'
+  mapping:
+    tooltip_content:
+      type: string
+      label: 'Tooltip content'           

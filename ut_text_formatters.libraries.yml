@@ -1,0 +1,6 @@
+ut_text_formatters.qtip:
+  js:
+    https://img1.wynimg.com/static/js/plugins/jquery.qtip.min.js_bak: { type: external, minified: true }
+    js/text.qtip.js: {}  
+
+        

@@ -1,0 +1,6 @@
+name: 'UT Text Formatters'
+type: module
+description: 'Provides field formatters for text fields.'
+core: 8.x
+core_version_requirement: ^8 || ^9
+package: 'UT Modules'

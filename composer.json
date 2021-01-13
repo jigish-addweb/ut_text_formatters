@@ -1,0 +1,8 @@
+{
+  "name": "drupal/ut_text_formatters",
+  "description": "Field formatters for text fields.",
+  "type": "drupal-module",
+  "require": {
+    "cocur/slugify": "^3.0"
+  }
+}
